@@ -1,7 +1,7 @@
 /*
- *      Author: Nasseef Abukamail
- *   Date: 2018-09-05
- * Description: Add Description
+ *      Author: AJ  and Jared
+ *   Date: 2018-06-11
+ * Description: This program calculates wage for a single emplyee using hours and hourly rate
  */
 
 #include <iostream>
